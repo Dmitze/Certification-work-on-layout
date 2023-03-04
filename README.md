@@ -13,11 +13,16 @@
     <a href="https://github.com/ShaanCoding/Certification-work-on-layout"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/ShaanCoding/Certification-work-on-layout">View Demo</a>
+    <a href="https://github.com/Dmitze/page_1">Build a Survey Form</a>
     .
-    <a href="https://github.com/ShaanCoding/Certification-work-on-layout/issues">Report Bug</a>
+    <a href="https://dmitze.github.io/page_2">Build a Product Landing Page</a>
     .
-    <a href="https://github.com/ShaanCoding/Certification-work-on-layout/issues">Request Feature</a>
+    <a href="https://github.com/Dmitze/page_1">Build a Survey Form</a>
+    .
+    <a href="https://dmitze.github.io/page_4/">BBuild a Technical Documentation Page</a>
+    .
+    <a href="https://dmitze.github.io/page_5/">Build a Personal Portfolio Webpage</a>
+  
   </p>
 </p>
 
