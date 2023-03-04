@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ShaanCoding/Certification-work-on-layout">
-    <img src="https://создание-сайта.net/images/newsnew/newsnew/4786de1682b284d1d306664dfa742325.jpg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Dmitze/Certification-work-on-layout/blob/main/4786de1682b284d1d306664dfa742325.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"> Examinations work a HTML CSS</h3>
